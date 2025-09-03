@@ -1,4 +1,4 @@
-## Hi there 👋  My name is Chirayu , I am a linux enthusiast and full stack developer.
+## Hi there 👋  My name is Chirayu , I am a linux enthusiast and learning full stack development.
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="30" alt="c++ logo"  />
